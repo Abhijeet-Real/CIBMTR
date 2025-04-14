@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+statsmodels
+tensorflow
+scikit-survival
+xgboost
+factor-analyzer
+lifelines
+ipykernel
+
+# Optional but used:
+ipython
